@@ -32,7 +32,7 @@
 <!-- /TOC -->
 
 # 1. Introduction
-This project is initiated and facilitated by the Acala Foundation. Acala Foundation nurtures applications in the fields of decentralized finance protocols, particularly those that serve as open finance infrastructures such as stable currency and staking liquidity. The Acala Foundation is founded by [Laminar](https://laminar.one/) and [Polkawallet](https://polkawallet.io/) , participants and contributors to the Polkadot ecosystem. The Acala Foundation welcomes more industry participants as it progresses.
+This project is init iated and facilitated by the Acala Foundation. Acala Foundation nurtures applications in the fields of decentralized finance protocols, particularly those that serve as open finance infrastructures such as stable currency and staking liquidity. The Acala Foundation is founded by [Laminar](https://laminar.one/) and [Polkawallet](https://polkawallet.io/) , participants and contributors to the Polkadot ecosystem. The Acala Foundation welcomes more industry participants as it progresses.
 
 # 2. Overview
 The significance of cross-chain communication to the blockchain is like that of the internet to the intranet. Polkadot empowers a network of public, consortium and private blockchains, and enables true interoperability, economic and transactional scalability. A cross-chain stablecoin system will:
@@ -152,7 +152,7 @@ __Note:__ All build command from Makefile are designed for local development pur
 
 # 6. Bug Bounty :bug:
 
-The Bug Bounty Program includes only on-chain vulnerabilities that can lead to significant economic loss or instability of the network. You check details of the Bug Bounty or Submit a vulnerability here: 
+The Bug Bounty Program includes only on-chain vulnerabilities that can lead to significant economic loss or instability of the network. You check details of the Bug Bounty or Submit a vulnerability here:
 https://immunefi.com/bounty/acala/
 
 # 7. Bench Bot
